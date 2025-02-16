@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Casa en Villa Morra",
+      "description": "Hermosa casa de 3 habitaciones en una zona exclusiva.",
+      "location": [-25.2895, -57.5734],
+      "price": 150000,
+      "image": "https://example.com/casa1.jpg",
+      "type": "Casa",
+      "rooms": 3,
+      "transaction_fee": "Baja",
+      "operation": "Venta"
+    },
+    {
+      "id": 2,
+      "name": "Departamento en Asunción",
+      "description": "Moderno departamento con vista al río.",
+      "location": [-25.2849, -57.6086],
+      "price": 120000,
+      "image": "https://example.com/depto1.jpg",
+      "type": "Departamento",
+      "rooms": 2,
+      "transaction_fee": "Media",
+      "operation": "Alquiler"
+    },
+    {
+      "id": 3,
+      "name": "Dúplex en San Lorenzo",
+      "description": "Dúplex con patio y garaje para dos vehículos.",
+      "location": [-25.3173, -57.5389],
+      "price": 100000,
+      "image": "https://example.com/duplex1.jpg",
+      "type": "Dúplex",
+      "rooms": 2,
+      "transaction_fee": "Alta",
+      "operation": "Venta"
+    }
+  ]
+  
