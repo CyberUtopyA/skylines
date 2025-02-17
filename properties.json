@@ -8,7 +8,7 @@
     "image": "https://example.com/casa1.jpg",
     "type": "Casa",
     "rooms": 3,
-    "size": 200, 
+    "area": 200, 
     "transaction_fee": "Baja",
     "operation": "Venta"
   },
@@ -21,7 +21,7 @@
     "image": "https://example.com/depto1.jpg",
     "type": "Departamento",
     "rooms": 2,
-    "size": 90, 
+    "area": 90, 
     "transaction_fee": "Media",
     "operation": "Alquiler"
   },
@@ -34,7 +34,7 @@
     "image": "https://example.com/duplex1.jpg",
     "type": "Dúplex",
     "rooms": 2,
-    "size": 150, 
+    "area": 150, 
     "transaction_fee": "Alta",
     "operation": "Venta"
   }
