@@ -10,7 +10,8 @@
     "rooms": 3,
     "area": 200, 
     "transaction_fee": "Baja",
-    "operation": "Venta"
+    "operation": "Venta",
+    "contact": "+595 981 123456"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "rooms": 2,
     "area": 90, 
     "transaction_fee": "Media",
-    "operation": "Alquiler"
+    "operation": "Alquiler",
+    "contact": "+595 982 654321"
   },
   {
     "id": 3,
@@ -36,6 +38,7 @@
     "rooms": 2,
     "area": 150, 
     "transaction_fee": "Alta",
-    "operation": "Venta"
+    "operation": "Venta",
+    "contact": "+595 983 789012"
   }
 ]
