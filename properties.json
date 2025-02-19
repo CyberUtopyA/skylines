@@ -3,9 +3,14 @@
     "id": 1,
     "name": "Propiedad con Depósito y Alquiler de Apartamentos",
     "description": "TINGLADO: 11x8 metros\nSALÓN COMERCIAL: 9x10 metros\nDEPARTAMENTO: 2 habitaciones, cocina/comedor, balcón, baño social\nHABITACIONES: 4 habitaciones con baño privado\nINGRESO MENSUAL APROXIMADO: 1000 USD\nListo para transferir.",
-    "location": [-25.2895, -57.5734],
+    "location": [-24.067657556895586, -54.31016532822291],
     "price": 150000,
-    "image": "https://example.com/casa1.jpg",
+    "image": [
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479549210_1175420474169615_3555288408292095967_n_oxyuyv.jpg"
+    ],
     "type": "Casa",
     "rooms": 6,
     "area": 675,
