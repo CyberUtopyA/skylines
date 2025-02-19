@@ -1,17 +1,23 @@
 [
   {
     "id": 1,
-    "name": "Casa en Villa Morra",
-    "description": "Hermosa casa de 3 habitaciones en una zona exclusiva.",
+    "name": "Propiedad con Deposito y alquiler de apartamentos",
+    "description": "
+TINGLADO: 11X8 metros, 
+SALON COMERCIAL: 9X10 metros. 
+DEPARTAMENTO: 2 habitaciones, cocina/comedor, balcón, baño social 
+HABITACIONES: 4 habitaciones con baño privado 
+ INGRESO MENSUAL APROXIMADO: 1000USD
+Listo para trasferir.",
     "location": [-25.2895, -57.5734],
     "price": 150000,
     "image": "https://example.com/casa1.jpg",
     "type": "Casa",
-    "rooms": 3,
-    "area": 200, 
-    "transaction_fee": "Baja",
+    "rooms": 2,
+    "area": 675, 
+    "transaction_fee": "Media",
     "operation": "Venta",
-    "contact": "+595 981 123456"
+    "contact": "+595 982 965447"
   },
   {
     "id": 2,
