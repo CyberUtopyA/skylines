@@ -1,50 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Propiedad con Deposito y alquiler de apartamentos",
-    "description": "
-TINGLADO: 11X8 metros, 
-SALON COMERCIAL: 9X10 metros. 
-DEPARTAMENTO: 2 habitaciones, cocina/comedor, balcón, baño social 
-HABITACIONES: 4 habitaciones con baño privado 
- INGRESO MENSUAL APROXIMADO: 1000USD
-Listo para trasferir.",
+    "name": "Propiedad con Depósito y Alquiler de Apartamentos",
+    "description": "TINGLADO: 11x8 metros\nSALÓN COMERCIAL: 9x10 metros\nDEPARTAMENTO: 2 habitaciones, cocina/comedor, balcón, baño social\nHABITACIONES: 4 habitaciones con baño privado\nINGRESO MENSUAL APROXIMADO: 1000 USD\nListo para transferir.",
     "location": [-25.2895, -57.5734],
     "price": 150000,
     "image": "https://example.com/casa1.jpg",
     "type": "Casa",
-    "rooms": 2,
-    "area": 675, 
+    "rooms": 6,
+    "area": 675,
     "transaction_fee": "Media",
     "operation": "Venta",
     "contact": "+595 982 965447"
-  },
-  {
-    "id": 2,
-    "name": "Departamento en Asunción",
-    "description": "Moderno departamento con vista al río.",
-    "location": [-25.2849, -57.6086],
-    "price": 120000,
-    "image": "https://example.com/depto1.jpg",
-    "type": "Departamento",
-    "rooms": 2,
-    "area": 90, 
-    "transaction_fee": "Media",
-    "operation": "Alquiler",
-    "contact": "+595 982 654321"
-  },
-  {
-    "id": 3,
-    "name": "Dúplex en San Lorenzo",
-    "description": "Dúplex con patio y garaje para dos vehículos.",
-    "location": [-25.3173, -57.5389],
-    "price": 100000,
-    "image": "https://example.com/duplex1.jpg",
-    "type": "Dúplex",
-    "rooms": 2,
-    "area": 150, 
-    "transaction_fee": "Alta",
-    "operation": "Venta",
-    "contact": "+595 983 789012"
   }
 ]
