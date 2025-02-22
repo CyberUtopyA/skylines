@@ -15,6 +15,6 @@
     "rooms": 6,
     "area": 675,
     "transaction_fee": "Media",
-    "operation": "Venta",
+    "operation": "Venta"
   }
 ]
