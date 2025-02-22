@@ -16,5 +16,39 @@
     "area": 675,
     "transaction_fee": "Media",
     "operation": "Venta"
+  },
+  {
+    "id": "2",
+    "name": "Lote imperdible para inversión",
+    "description": "Propiedad en venta de 731,25 m² en una ubicación privilegiada de Saltos del Guairá. A metros de la rotonda principal de la avenida Paraguay y Mcal. López, frente a la 'Plaza de La Amistad'. Ideal para inversión.",
+    "location": ["-24.070204768429843", "-54.30888656287846"],
+    "price": "250.000 USD",
+    "image": [
+      "https://res.cloudinary.com/de2vg1giw/image/upload/v1740267311/435535346_778319907781077_7403278071025507395_n_s8qguj.jpg",
+      "https://res.cloudinary.com/de2vg1giw/image/upload/v1740267291/wa_mi7xfd.jpg"
+    ],
+    "type": "Terreno",
+    "rooms": "0",
+    "area": "731.25",
+    "transaction_fee": "0%",
+    "operation": "Venta"
+  },
+  {
+    "id": "",
+    "name": "",
+    "description": "",
+    "location": ["", ""],
+    "price": "",
+    "image": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "type": "",
+    "rooms": "",
+    "area": "",
+    "transaction_fee": "",
+    "operation": ""
   }
 ]
