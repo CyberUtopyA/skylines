@@ -1,0 +1,25 @@
+[
+  {
+    "id": "renta-001",
+    "name": "Casa Compartida Centro",
+    "location": [-24.066, -54.312],
+    "price": 1500000,
+    "image": "/images/renta1.jpg",
+    "rooms": [
+      { "number": 1, "available": true },
+      { "number": 2, "available": false },
+      { "number": 3, "available": true }
+    ]
+  },
+  {
+    "id": "renta-002",
+    "name": "Depto San Blas",
+    "location": [-24.068, -54.309],
+    "price": 1800000,
+    "image": "/images/renta2.jpg",
+    "rooms": [
+      { "number": 1, "available": false },
+      { "number": 2, "available": false }
+    ]
+  }
+]
