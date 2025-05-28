@@ -1,51 +1,60 @@
 [
   {
-  "id": "renta-001",
-  "name": "Habitación amoblada Ruta 10",
-  "location": [-24.084719346081716, -54.33066832504672],
-  "price": "690.000 GS",
-  "image": "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/65736146_2284422105006913_1648360529254678528_n_ubgb8y.jpg",
-  "description": "Alquilo habitación amoblada (aire acondicionado, wifi). Incluye energía eléctrica, agua, recolección de basura. Ubicación: km2 sobre ruta 10 “Las Residentas”.",
-  "rooms": [
-    {
-      "number": 1,
-      "available": false,
-      "photos": []
-    },
-    {
-      "number": 2,
-      "available": true,
-      "photos": ["https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"]
-    },
-    {
-      "number": 3,
-      "available": false,
-      "photos": []
-    },
-    {
-      "number": 4,
-      "available": false,
-      "photos": []
-    },
-    {
-      "number": 5,
-      "available": true,
-      "photos": ["https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"]
-    },
-    {
-      "number": 6,
-      "available": true,
-      "photos": ["https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"]
-    },
-    {
-      "number": 7,
-      "available": true,
-      "photos": ["https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"]
-    },
-    {
-      "number": "Salón",
-      "available": false,
-      "photos": []
-    }
-  ]
-}
+    "id": "renta-001",
+    "name": "Habitación amoblada Ruta 10",
+    "location": [-24.084719346081716, -54.33066832504672],
+    "price": 690000,
+    "image": "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/65736146_2284422105006913_1648360529254678528_n_ubgb8y.jpg",
+    "description": "Alquilo habitación amoblada (aire acondicionado, wifi). Incluye energía eléctrica, agua, recolección de basura. Ubicación: km2 sobre ruta 10 'Las Residentas'.",
+    "rooms": [
+      {
+        "number": 1,
+        "available": false,
+        "photos": []
+      },
+      {
+        "number": 2,
+        "available": true,
+        "photos": [
+          "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
+        ]
+      },
+      {
+        "number": 3,
+        "available": false,
+        "photos": []
+      },
+      {
+        "number": 4,
+        "available": false,
+        "photos": []
+      },
+      {
+        "number": 5,
+        "available": true,
+        "photos": [
+          "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
+        ]
+      },
+      {
+        "number": 6,
+        "available": true,
+        "photos": [
+          "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
+        ]
+      },
+      {
+        "number": 7,
+        "available": true,
+        "photos": [
+          "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
+        ]
+      },
+      {
+        "number": "Salón",
+        "available": false,
+        "photos": []
+      }
+    ]
+  }
+]
