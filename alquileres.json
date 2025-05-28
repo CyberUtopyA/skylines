@@ -48,17 +48,4 @@
       "photos": []
     }
   ]
-},
-  {
-    "id": "",
-    "name": "",
-    "location": [],
-    "price": 0,
-    "image": "",
-    "rooms": [
-      { "number": , "available": },
-      { "number": , "available":  }
-    ]
-  }
-]
 }
