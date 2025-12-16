@@ -11,8 +11,8 @@
     "rooms": [
       {
         "number": 1,
-        "available": false,
-        "photos": []
+        "available": true,
+        "photos": ["https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"]
       },
       {
         "number": 2,
