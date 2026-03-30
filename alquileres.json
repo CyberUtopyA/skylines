@@ -58,7 +58,7 @@
       },
       {
         "number": "Salón",
-        "available": false,
+        "available": true,
         "price": 1500000,
         "currency": "PYG",
         "photos": [
