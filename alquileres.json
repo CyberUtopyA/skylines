@@ -12,7 +12,9 @@
       {
         "number": 1,
         "available": false,
-        "photos": ["https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"]
+        "photos": [
+          "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
+        ]
       },
       {
         "number": 2,
@@ -30,7 +32,7 @@
         "number": 4,
         "available": true,
         "photos": [
-           "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
+          "https://res.cloudinary.com/dvc2zzbhr/image/upload/v1748471198/67015530_2311136552335468_7075323759569141760_n_b0n3u9.jpg"
         ]
       },
       {
@@ -57,7 +59,14 @@
       {
         "number": "Salón",
         "available": false,
-        "photos": []
+        "price": 1500000,
+        "currency": "PYG",
+        "photos": [
+          "https://res.cloudinary.com/de2vg1giw/image/upload/v1774870591/d16b40e9-e818-4a1a-94b2-9ec6e15102df_inym6u.jpg",
+          "https://res.cloudinary.com/de2vg1giw/image/upload/v1774870573/2a65c6b5-d465-4a40-83d0-c384fa41dd76_dyknvl.jpg",
+          "https://res.cloudinary.com/de2vg1giw/image/upload/v1774870558/1a74024c-d7ae-4233-97f7-d766f36fc941_spagg7.jpg",
+          "https://res.cloudinary.com/de2vg1giw/image/upload/v1774870552/5137f786-21f8-4cfe-b5cc-29d19d90ba68_rns3ge.jpg"
+        ]
       }
     ]
   }
