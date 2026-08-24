@@ -8,5 +8,13 @@
     "email": "",
     "firmaUrl": "https://res.cloudinary.com/de2vg1giw/image/upload/v1765840384/Captura_de_pantalla_2025-12-15_201243_gfzjeg.png",
     "nota": "Administrador del alquiler (propietario: su padre)."
+  },
+  {
+    "id": "82fcaaee-ac3a-4d08-86f8-9ccc950e4f28",
+    "role": "locador",
+    "nombreCompleto": "EDUARDO DERLIS FALCON MORINGO",
+    "documento": "1.195.155",
+    "domicilio": "",
+    "email": ""
   }
 ]

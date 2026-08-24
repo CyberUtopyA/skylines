@@ -69,5 +69,66 @@
         ]
       }
     ]
+  },
+  {
+    "id": "renta-eduardo-falcon-001",
+    "name": "Propiedad de Eduardo Derlis Falcon Moringo",
+    "tipo": "alquiler",
+    "owner_id": "82fcaaee-ac3a-4d08-86f8-9ccc950e4f28",
+    "status": "available",
+    "location": null,
+    "address": "",
+    "image": "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+    "photos": [
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+    ],
+    "description": "",
+    "roomCount": 5,
+    "availableRooms": 5,
+    "rooms": [
+      {
+        "id": "renta-eduardo-falcon-001-unidad-1",
+        "number": 1,
+        "available": true,
+        "price": 800000,
+        "currency": "PYG",
+        "photos": []
+      },
+      {
+        "id": "renta-eduardo-falcon-001-unidad-2",
+        "number": 2,
+        "available": true,
+        "price": 800000,
+        "currency": "PYG",
+        "photos": []
+      },
+      {
+        "id": "renta-eduardo-falcon-001-unidad-3",
+        "number": 3,
+        "available": true,
+        "price": 1000000,
+        "currency": "PYG",
+        "photos": []
+      },
+      {
+        "id": "renta-eduardo-falcon-001-unidad-4",
+        "number": 4,
+        "available": true,
+        "price": 1000000,
+        "currency": "PYG",
+        "photos": []
+      },
+      {
+        "id": "renta-eduardo-falcon-001-unidad-5",
+        "number": 5,
+        "floor": "segundo piso",
+        "available": true,
+        "price": 1500,
+        "currency": "BRL",
+        "photos": []
+      }
+    ]
   }
 ]
