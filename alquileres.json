@@ -69,5 +69,81 @@
         ]
       }
     ]
+  },
+  {
+    "id": "renta-eduardo-falcon-001",
+    "name": "Apartamentos Eduardo Falcon",
+    "owner_id": "REEMPLAZAR_POR_UUID_REAL_DE_EDUARDO_EN_OWNERS_JSON",
+    "image": "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+    "photos": [
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+      "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+    ],
+    "description": "Propiedad de alquiler con 5 unidades. Propietario: Eduardo Derlis Falcon Moringo, C.I. 1.195.155.",
+    "rooms": [
+      {
+        "id": "renta-eduardo-falcon-001-room-1",
+        "number": 1,
+        "available": true,
+        "price": 800000,
+        "currency": "PYG",
+        "photos": [
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+        ]
+      },
+      {
+        "id": "renta-eduardo-falcon-001-room-2",
+        "number": 2,
+        "available": true,
+        "price": 800000,
+        "currency": "PYG",
+        "photos": [
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+        ]
+      },
+      {
+        "id": "renta-eduardo-falcon-001-room-3",
+        "number": 3,
+        "available": true,
+        "price": 1000000,
+        "currency": "PYG",
+        "photos": [
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+        ]
+      },
+      {
+        "id": "renta-eduardo-falcon-001-room-4",
+        "number": 4,
+        "available": true,
+        "price": 1000000,
+        "currency": "PYG",
+        "photos": [
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+        ]
+      },
+      {
+        "id": "renta-eduardo-falcon-001-room-5",
+        "number": 5,
+        "floor": 2,
+        "floorLabel": "Segundo piso",
+        "available": true,
+        "price": 1500,
+        "currency": "BRL",
+        "photos": [
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/479543370_1154573325996568_2432839311647142243_n_gw7hgl.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/475270437_1316404892832630_3454567777079407693_n_d1pyey.jpg",
+          "https://res.cloudinary.com/dis9vjmth/image/upload/v1739996066/477020209_2456564464709461_2318158793830985208_n_bszk1c.jpg"
+        ]
+      }
+    ]
   }
 ]
